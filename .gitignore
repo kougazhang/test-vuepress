@@ -1,0 +1,9 @@
+.godeps
+_site
+dist
+profile
+nsqadmin
+nsqd
+nsqlookupd
+apps
+bench
