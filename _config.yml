@@ -1,5 +1,5 @@
 source: .
 version: 1.2.0
 highlighter: rouge
-baseurl: ''
+baseurl: 'https://kougazhang.github.io/test-vuepress/'
 markdown: kramdown
